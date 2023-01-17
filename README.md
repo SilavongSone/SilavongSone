@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on School
+🔭 I’m currently working on School<br>
 🌱 I’m currently learning to Dev
 
 <!--
