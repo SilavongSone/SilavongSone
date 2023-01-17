@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anousone Silavong</h1>
 <h3 align="center">A passionate frontend developer from LAOS</h3>
 
-![The San Juan Mountains are beautiful!](/assets/image/Untitled-2.jpg "San Juan Mountains")
+
 
 - 🌱 I’m currently learning **Website Developer**
 
