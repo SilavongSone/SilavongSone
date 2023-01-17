@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anousone Silavong</h1>
 <h3 align="center">A passionate frontend developer from LAOS</h3>
 
-
+![alt text](image/Untitled-2.jpg.jpg)
 
 - 🌱 I’m currently learning **Website Developer**
 
