@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on School
+🌱 I’m currently learning to Dev
+
 <!--
 **SilavongSone/SilavongSone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
