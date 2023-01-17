@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anousone Silavong</h1>
 <h3 align="center">A passionate frontend developer from LAOS</h3>
 
-![alt text](image/https://cdn.discordapp.com/attachments/667031651209052161/1064836359640072212/Screenshot_18.png.jpg)
+<img src="https://cdn.discordapp.com/attachments/667031651209052161/1064836359640072212/Screenshot_18.png">
 
 - 🌱 I’m currently learning **Website Developer**
 
