@@ -3,7 +3,12 @@
 
 - 🌱 I’m currently learning **Website Developer**
 
-- 💬 Ask me about **i am anousone silavong**
+- 💬 Ask me about<br>
+- **i am anousone silavong**
+- **i am 20 years old**
+- **i live in Danchang village/ Vientiane province**
+- **Gende Man**
+- **Date of birth**
 
 - 📫 How to reach me **SilavongSone@gmail.com**
 
