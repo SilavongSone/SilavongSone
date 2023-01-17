@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anousone Silavong</h1>
 <h3 align="center">A passionate frontend developer from LAOS</h3>
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 - 🌱 I’m currently learning **Website Developer**
 
 - 💬 Ask me about<br>
-- **i am anousone silavong**
-- **i am 20 years old**
-- **i live in Danchang village/ Vientiane province**
-- **Gende Man**
-- **Date of birth**
 
 - 📫 How to reach me **SilavongSone@gmail.com**
 
