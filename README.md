@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Website Developer**
 
 - 📫 How to reach me **SilavongSone@gmail.com**
-- <img align="center"  src="https://cdn.discordapp.com/attachments/1031400895260397578/1064837702501007430/WhatsApp_Image_2023-01-05_at_03.39.30.jpg" width="600" height="600">
+- <img align="center"  src="https://cdn.discordapp.com/attachments/1031400895260397578/1064837702501007430/WhatsApp_Image_2023-01-05_at_03.39.30.jpg" width="400" height="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
