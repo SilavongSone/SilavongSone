@@ -5,7 +5,7 @@
 ---
 
 ## 🧩 About Me
-Frontend Developer with experience in developing and designing web applications using HTML, CSS, and JavaScript. Experienced in building dynamic and responsive web applications using modern frameworks and tools such as React.js, Next.js, and Vue.js. Familiar with backend technologies including Node.js, Express.js, and Prisma. Passionate about continuous learning, teamwork, and problem-solving.
+Junior Frontend Developer with hands-on experience in React.js, Next.js, and modern web technologies. Passionate about creating responsive, user-friendly applications with clean code. Experienced in collaborating with teams and eager to contribute to innovative web projects.
 
 ---
 
