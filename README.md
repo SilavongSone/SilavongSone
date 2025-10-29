@@ -1,64 +1,64 @@
 # 👋 Hi, I'm Anousone Silavong
 
-**Frontend Developer** passionate about creating beautiful and functional web applications.
-
-## 🚀 About Me
-- 🔭 Currently working with **React.js**, **Next.js**, and **TypeScript**
-- 🌱 Learning **Advanced React Patterns** and **Node.js**
-- 💼 Open to **Frontend Developer** opportunities
-- 📍 Based in Vientiane, Laos
-- 📫 Reach me: silavongsone@gmail.com
-
-## 💻 Tech Stack
-
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Anousone's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-## 🔥 Featured Projects
-
-### 🌟 [Project Name 1](link-to-repo)
-Brief description of the project - what it does, tech used
-- 🛠️ **Tech:** React, Next.js, Tailwind CSS
-- ✨ **Features:** Feature 1, Feature 2, Feature 3
-
-### 🌟 [Project Name 2](link-to-repo)
-Brief description of the project
-- 🛠️ **Tech:** React, TypeScript, Firebase
-- ✨ **Features:** Feature 1, Feature 2
-
-### 🌟 [Project Name 3](link-to-repo)
-Brief description of the project
-- 🛠️ **Tech:** Next.js, Prisma, MySQL
-- ✨ **Features:** Feature 1, Feature 2
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silavongsone@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-url)
+**Frontend Developer | UI/UX Enthusiast | Laos 🇱🇦**
 
 ---
 
-💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+## 🧩 Profile
+
+Passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications using **React**, **TypeScript**, and **Tailwind CSS**.
+
+- 🎯 Goal: Build modern interfaces that are fast, accessible, and delightful to use  
+- 💬 Motto: *“Code with clarity, design with empathy.”*
+
+---
+
+## 💼 Experience
+
+### 🏢 Frontend Developer — ABC Tech  
+📅 *2023 - Present*  
+- Built dynamic web interfaces using React  
+- Improved performance and SEO across major company pages  
+- Collaborated closely with backend team for API integration
+
+### 💡 Intern Developer — XYZ Startup  
+📅 *2022 - 2023*  
+- Contributed to several small-scale web apps using Vue.js & Firebase  
+- Implemented responsive UI components and optimized UX
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+National University of Laos *(2019 - 2023)*  
+> Graduation Project: *Smart School Management System* built with React & Firebase
+
+---
+
+## 🛠️ Skills
+
+| Frontend | Backend | Tools & Others |
+|-----------|----------|----------------|
+| React, Next.js, TypeScript, Tailwind CSS | Firebase, Node.js | Git, GitHub, Figma, VS Code |
+
+---
+
+## 🌏 Languages
+
+- 🇱🇦 Lao — Native  
+- 🇬🇧 English — Intermediate  
+- 🇹🇭 Thai — Conversational  
+
+---
+
+## 📫 Contact
+
+- 📧 **anousone@example.com**  
+- 🌐 [github.com/anousonesilavong](https://github.com/anousonesilavong)  
+- 📍 *Vientiane, Laos*
+
+---
+
+💙 *Thanks for visiting my GitHub profile! Feel free to connect or collaborate.*  
+⭐ If you like my work, please give it a star!
