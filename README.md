@@ -63,7 +63,7 @@ Frontend Developer with experience in developing and designing web applications 
 
 ## 🌏 Languages
 - 🇱🇦 **Lao** — ★★★★★  
-- 🇬🇧 **English** — ★★☆☆☆  
+- 🇬🇧 **English** — ★★★☆☆  
 
 ---
 
