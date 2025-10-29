@@ -1,64 +1,70 @@
-# 👋 Hi, I'm Anousone Silavong
+# 👨‍💻 ANOUSONE SILAVONG
 
-**Frontend Developer | UI/UX Enthusiast | Laos 🇱🇦**
-
----
-
-## 🧩 Profile
-
-Passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications using **React**, **TypeScript**, and **Tailwind CSS**.
-
-- 🎯 Goal: Build modern interfaces that are fast, accessible, and delightful to use  
-- 💬 Motto: *“Code with clarity, design with empathy.”*
+**Frontend Developer**
 
 ---
 
-## 💼 Experience
+## 🧩 About Me
+Frontend Developer with experience in developing and designing web applications using HTML, CSS, and JavaScript. Experienced in building dynamic and responsive web applications using modern frameworks and tools such as React.js, Next.js, and Vue.js. Familiar with backend technologies including Node.js, Express.js, and Prisma. Passionate about continuous learning, teamwork, and problem-solving.
 
-### 🏢 Frontend Developer — ABC Tech  
-📅 *2023 - Present*  
-- Built dynamic web interfaces using React  
-- Improved performance and SEO across major company pages  
-- Collaborated closely with backend team for API integration
+---
 
-### 💡 Intern Developer — XYZ Startup  
-📅 *2022 - 2023*  
-- Contributed to several small-scale web apps using Vue.js & Firebase  
-- Implemented responsive UI components and optimized UX
+## 📞 Contact
+📧 **silavonganousone9@gmail.com**  
+📱 **+856 20 29 88 01 88**  
+💻 **[github.com/anousonesilavong](https://github.com/anousonesilavong)**  
+📍 **Vientiane, Laos**
+
+---
+
+## 🧠 Skills
+
+### 🔹 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- TypeScript  
+- React.js / Next.js / Vue.js  
+- Tailwind CSS  
+
+### 🔹 Backend Development
+- Node.js / Express.js  
+- Prisma  
+- RESTful APIs  
+- Firebase / MySQL  
+
+### 🔹 Tools & Version Control
+- Git / GitHub  
+- VS Code / Postman  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**  
-National University of Laos *(2019 - 2023)*  
-> Graduation Project: *Smart School Management System* built with React & Firebase
+**High School Diploma**  
+📍 *Vientiane–Hanoi Technical Vocational School*  
+🗓️ *2020 – 2023*
+
+**Bachelor’s Degree in Computer Science**  
+📍 *National University of Laos*  
+🗓️ *2023 – 2025*
 
 ---
 
-## 🛠️ Skills
+## 💼 Experience
 
-| Frontend | Backend | Tools & Others |
-|-----------|----------|----------------|
-| React, Next.js, TypeScript, Tailwind CSS | Firebase, Node.js | Git, GitHub, Figma, VS Code |
+**Frontend Developer Intern**  
+*Multimedia and Technology Solution Co., Ltd.*  
+🗓️ *3 Months*
+
+- Developed responsive user interfaces using Vue.js and Tailwind CSS  
+- Integrated RESTful APIs to display dynamic data from backend  
+- Collaborated with team members using Git/GitHub for version control  
 
 ---
 
 ## 🌏 Languages
-
-- 🇱🇦 Lao — Native  
-- 🇬🇧 English — Intermediate  
-- 🇹🇭 Thai — Conversational  
+- 🇱🇦 **Lao** — ★★★★★  
+- 🇬🇧 **English** — ★★☆☆☆  
 
 ---
 
-## 📫 Contact
-
-- 📧 **anousone@example.com**  
-- 🌐 [github.com/anousonesilavong](https://github.com/anousonesilavong)  
-- 📍 *Vientiane, Laos*
-
----
-
-💙 *Thanks for visiting my GitHub profile! Feel free to connect or collaborate.*  
-⭐ If you like my work, please give it a star!
+💙 *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
