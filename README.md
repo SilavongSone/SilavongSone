@@ -1,69 +1,64 @@
-<h1 align="center">Hi 👋, I'm Anousone Silavong</h1>
-<h3 align="center">🌏 A passionate Frontend Developer from Laos 🇱🇦</h3>
+# 👋 Hi, I'm Anousone Silavong
+
+**Frontend Developer** passionate about creating beautiful and functional web applications.
+
+## 🚀 About Me
+- 🔭 Currently working with **React.js**, **Next.js**, and **TypeScript**
+- 🌱 Learning **Advanced React Patterns** and **Node.js**
+- 💼 Open to **Frontend Developer** opportunities
+- 📍 Based in Vientiane, Laos
+- 📫 Reach me: silavongsone@gmail.com
+
+## 💻 Tech Stack
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Anousone's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## 🔥 Featured Projects
+
+### 🌟 [Project Name 1](link-to-repo)
+Brief description of the project - what it does, tech used
+- 🛠️ **Tech:** React, Next.js, Tailwind CSS
+- ✨ **Features:** Feature 1, Feature 2, Feature 3
+
+### 🌟 [Project Name 2](link-to-repo)
+Brief description of the project
+- 🛠️ **Tech:** React, TypeScript, Firebase
+- ✨ **Features:** Feature 1, Feature 2
+
+### 🌟 [Project Name 3](link-to-repo)
+Brief description of the project
+- 🛠️ **Tech:** Next.js, Prisma, MySQL
+- ✨ **Features:** Feature 1, Feature 2
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silavongsone@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-url)
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Full-Stack Web Development**
-- 💡 I enjoy creating beautiful, responsive websites and learning new web technologies.
-- 📫 Reach me at: **SilavongSone@gmail.com**
-- ⚡ Fun fact: I love turning ideas into reality through code!
-
----
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1031400895260397578/1064837702501007430/WhatsApp_Image_2023-01-05_at_03.39.30.jpg" width="300" height="300" alt="Profile Image" style="border-radius: 50%;"/>
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://fb.com/silavongsone" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://discordapp.com/users/IncludePRO#6129" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilavongSone&show_icons=true&theme=radical" alt="Anousone's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilavongSone&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### ✨ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."
-
+💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
