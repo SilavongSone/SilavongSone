@@ -50,7 +50,7 @@ Always eager to **learn new technologies** and contribute to impactful digital s
 
 ## 🚀 Featured Projects  
 
-### 🔸 [Portfolio Website](https://portfolio-five-self-25.vercel.app)  
+### 🔸 [Portfolio Website](https://portfolio-five-self-25.vercel.app)  (USE VPN)
 A personal portfolio built with **Next.js** and **Tailwind CSS** showcasing projects and skills.  
 ⭐ *Focus: Responsive Design, Animation, and Performance.*
 
