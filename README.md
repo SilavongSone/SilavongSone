@@ -59,8 +59,9 @@ Full-stack web app built with **React**, **Express.js**, **Prisma**, and **MySQL
 🛒 *Includes authentication, product management, and Cloudinary image upload.*
 
 **🔗 Links:**  
-- 🖥️ [Frontend Repository]([https://github.com/SilavongSone/ecom_notebook_frontend](https://github.com/SilavongSone/FontendEcomNoteBook))  
-- ⚙️ [Backend Repository]([https://github.com/SilavongSone/ecom_notebook_backend](https://github.com/SilavongSone/EconNoteBook))
+- 🖥️ [Frontend Repository](https://github.com/SilavongSone/FontendEcomNoteBook)  
+- ⚙️ [Backend Repository](https://github.com/SilavongSone/EconNoteBook)
+
 
 
 ---
