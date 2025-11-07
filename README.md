@@ -54,9 +54,14 @@ Always eager to **learn new technologies** and contribute to impactful digital s
 A personal portfolio built with **Next.js** and **Tailwind CSS** showcasing projects and skills.  
 ⭐ *Focus: Responsive Design, Animation, and Performance.*
 
-### 🔸 [E-Commerce Notebook App](https://github.com/SilavongSone/ecom_notebook)  
+### 🔸 E-Commerce Notebook App  
 Full-stack web app built with **React**, **Express.js**, **Prisma**, and **MySQL**.  
 🛒 *Includes authentication, product management, and Cloudinary image upload.*
+
+**🔗 Links:**  
+- 🖥️ [Frontend Repository](https://github.com/SilavongSone/ecom_notebook_frontend)  
+- ⚙️ [Backend Repository](https://github.com/SilavongSone/ecom_notebook_backend)
+
 
 ---
 
