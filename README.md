@@ -1,10 +1,12 @@
 # 👨‍💻 ANOUSONE SILAVONG  
-**Frontend Developer**
+**Frontend Developer | Web Enthusiast**
 
 ---
 
 ## 🧩 About Me  
-Junior Frontend Developer with hands-on experience in **React.js**, **Next.js**, and modern web technologies. Passionate about creating **responsive**, **user-friendly** applications with **clean and maintainable code**. Skilled in **team collaboration** and eager to contribute to innovative web projects.
+I'm a **Junior Frontend Developer** passionate about building **modern, responsive, and user-friendly** web applications.  
+Experienced in **React.js**, **Next.js**, and **TypeScript**, with a strong understanding of **clean code**, **UI/UX**, and **collaborative development**.  
+Always eager to **learn new technologies** and contribute to impactful digital solutions.
 
 ---
 
@@ -21,28 +23,40 @@ Junior Frontend Developer with hands-on experience in **React.js**, **Next.js**,
 ### 🔹 Frontend Development  
 | Skill | Level |
 |:--|:--|
-| **HTML5 / CSS3 / JavaScript (ES6+)** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| **TypeScript** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% |
-| **React.js / Next.js / Vue.js** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% |
-| **Tailwind CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| **HTML5 / CSS3 / JavaScript (ES6+)** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% |
+| **TypeScript** | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 40% |
+| **React.js / Next.js / Vue.js** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% |
+| **Tailwind CSS** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80% |
 
 ---
 
 ### 🔹 Backend Development  
 | Skill | Level |
 |:--|:--|
-| **Node.js / Express.js** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% |
-| **Prisma** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% |
-| **RESTful APIs** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 88% |
-| **Firebase / MySQL** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 84% |
+| **Node.js / Express.js** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 60% |
+| **Prisma** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 60% |
+| **RESTful APIs** | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 50% |
+| **Firebase / MySQL** | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 50% |
 
 ---
 
 ### 🔹 Tools & Version Control  
 | Tool | Level |
 |:--|:--|
-| **Git / GitHub** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75% |
+| **Git / GitHub** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% |
 | **VS Code / Postman** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% |
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔸 [Portfolio Website](https://portfolio-five-self-25.vercel.app)  
+A personal portfolio built with **Next.js** and **Tailwind CSS** showcasing projects and skills.  
+⭐ *Focus: Responsive Design, Animation, and Performance.*
+
+### 🔸 [E-Commerce Notebook App](https://github.com/SilavongSone/ecom_notebook)  
+Full-stack web app built with **React**, **Express.js**, **Prisma**, and **MySQL**.  
+🛒 *Includes authentication, product management, and Cloudinary image upload.*
 
 ---
 
@@ -67,6 +81,7 @@ Junior Frontend Developer with hands-on experience in **React.js**, **Next.js**,
 - Developed responsive user interfaces using **Vue.js** and **Tailwind CSS**  
 - Integrated **RESTful APIs** to display dynamic data from backend  
 - Collaborated with team members using **Git/GitHub** for version control  
+- Practiced agile development workflow and daily team stand-ups  
 
 ---
 
@@ -78,4 +93,5 @@ Junior Frontend Developer with hands-on experience in **React.js**, **Next.js**,
 
 ---
 
-💙 *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+💙 *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
+⭐ *“Code with purpose, design with passion.”*
